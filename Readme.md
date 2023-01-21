@@ -44,3 +44,33 @@
 
 
 # [커뮤니케이션 다이어그램]
+
+
+
+![1  카드 배분](https://user-images.githubusercontent.com/121847260/213863828-03c757d5-3c8c-49ff-a680-c6f2a8221745.png)
+
+
+![2  카드 선택](https://user-images.githubusercontent.com/121847260/213863829-e3f2b6f8-fdf7-46f8-8fd5-08501e55bfc4.png)
+
+
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/213863831-efe67d5a-223a-46c3-8850-4230aa923cd8.png)
+
+
+![4  게임 승부](https://user-images.githubusercontent.com/121847260/213863833-13bae567-f352-40f2-9249-611ad539ba99.png)
+
+
+![5  게임 포기](https://user-images.githubusercontent.com/121847260/213863834-336f9c10-b90d-46a3-aec6-f89e886c8d0f.png)
+
+
+![6  게임 종료](https://user-images.githubusercontent.com/121847260/213863835-d645c4ac-b6e2-4200-a865-b059056c239f.png)
+
+
+![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213863837-f44a22b5-07bc-4396-802b-691b2999ac22.png)
+
+
+
+# [클래스 다이어그램]
+
+
+
+
